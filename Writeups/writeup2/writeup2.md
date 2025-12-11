@@ -30,7 +30,7 @@ What micromamba command can you use to remove an environment?
 What are all the r-base and Bioconductor packages that were installed in the bioinfo_example environment? (Hint: You may want to use one of the commands from your answers to the above questions, and combine it with the grep command.)
 ![screenshot](packs.png)  
 
-2. Container
+2. Container  
 I was not able to build the image since there's not enough space on my laptop
 ![screenshot](containers.png)  
 
